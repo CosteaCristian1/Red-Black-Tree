@@ -401,7 +401,7 @@ int main()
 {
     int ch,OK=1;
     RBtree obj;
-    cout<<"\n Red Black Tree \n";
+    cout<<"\n Red-Black Tree \n";
     cout<<"\n 1. Insereaza nod ";
     cout<<"\n 2. Sterge nod";
     cout<<"\n 3. Cauta nod";
